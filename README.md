@@ -1,8 +1,6 @@
 # Machine Learning with NumPy, pandas, scikit-learn, and More
 
-### This not the actual course! rather just a summary notes
-
-This course will teach you to write useful code and create impactful machine learning applications immediately. From the start, you'll be given all the tools that you need to create industry-level machine learning projects. Rather than reading through dense theory, you’ll learn practical skills and gain actionable insights. Topics covered include data analysis/visualization, feature engineering, supervised learning, unsupervised learning, and deep learning. All of these topics are taught using industry-standard frameworks: NumPy, pandas, scikit-learn, XGBoost, TensorFlow, and Keras.
+A Course on Educative.io about Machine learning with NumPy, pandas, scikit-learn, and more. Learn data analysis, feature engineering, and deep learning using industry-standard frameworks.
 
 Link: https://www.educative.io/courses/machine-learning-numpy-pandas-scikit-learn
 
